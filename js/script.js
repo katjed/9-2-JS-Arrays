@@ -8,8 +8,8 @@ var newName = 'Marian';
 if(allNames.indexOf(newName) === -1) {
 	console.log('The search value is on ' + allNames.indexOf(newName) + ' position');
 	allNames.push(newName);
-	console.log(allNames);
-	console.log('The search value is on ' + allNames.indexOf(newName) + ' position');
 } 
+console.log(allNames);
+console.log('The search value is on ' + allNames.indexOf(newName) + ' position');
 
 
