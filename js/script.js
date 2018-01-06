@@ -13,3 +13,4 @@ console.log(allNames);
 console.log('The search value is on ' + allNames.indexOf(newName) + ' position');
 
 
+
